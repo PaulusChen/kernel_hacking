@@ -17,5 +17,5 @@ module_exit(hello_exit);
 
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Shakespeare");
+MODULE_AUTHOR("Paulus");
 MODULE_DESCRIPTION("A hello, World Module");
